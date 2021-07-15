@@ -4,7 +4,7 @@ public class Sum{
 		int b =30;
 		int sum;
 		sum = a+b;
-		System.Console.out(sum);
+		System.out.println("Sum of numbers is : "+sum);
 
 	}
 }
